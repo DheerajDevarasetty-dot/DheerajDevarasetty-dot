@@ -28,3 +28,9 @@ To become an AI/ML Engineer and build practical, data-driven solutions.
 
 ## 🔗 Connect with Me
 - GitHub: https://github.com/DheerajDevarasetty-dot
+## 🚀 Featured Project
+
+### Bluestock Data Analyst Internship
+A collection of practical assignments covering Excel, SQL, Python, Power BI, financial analysis and FinTech.
+
+🔗 [View My Internship Projects](https://github.com/DheerajDevarasetty-dot/bluestock-data-analyst-internship)
